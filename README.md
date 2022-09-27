@@ -17,11 +17,12 @@
 &nbsp;
 <!-- <span><img src="https://img.shields.io/badge/Vue.js-282C34?logo=vue.js&logoColor=4FC08D" alt="Vue.js logo" title="Vue.js" height="25" /></span> -->
 &nbsp;
+<span><img src="https://img.shields.io/badge/C-282C34?logo=c&logoColor=A8B9CC" alt="C logo" title="C" height="25" /></span>
 <span><img src="https://img.shields.io/badge/PostgreSQL-282C34?logo=postgreSQL&logoColor=4169E1" alt="PostgreSQL logo" title="PostgreSQL" height="25" /></span>
-<span><img src="https://img.shields.io/badge/MySQL-282C34?logo=mySQL&logoColor=4479A1" alt="MySQL logo" title="MySQL" height="25" /></span>
+<span><img src="https://img.shields.io/badge/MySQL-282C34?logo=mySQL&logoColor= 4479A1" alt="MySQL logo" title="MySQL" height="25" /></span>
 <span><img src="https://img.shields.io/badge/Microsoft SQL Server-282C34?logo=microsoft SQL Server&logoColor=CC2927" alt="Microsoft SQL Server logo" title="Microsoft SQL Server" height="25" /></span>
 &nbsp;
-<span><img src="https://img.shields.io/badge/Node.js-282C34?logo=node.js&logoColor=00F200" alt="Node.js logo" title="Node.js" height="25" /></span>
+<!-- <span><img src="https://img.shields.io/badge/Node.js-282C34?logo=node.js&logoColor=00F200" alt="Node.js logo" title="Node.js" height="25" /></span> -->
 &nbsp;
 <!-- <span><img src="https://img.shields.io/badge/Express-282C34?logo=express&logoColor=FFFFFF" alt="Express.js logo" title="Express.js" height="25" /></span> -->
 &nbsp;

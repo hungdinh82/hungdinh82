@@ -79,7 +79,7 @@
 			<div class="container">
         <div class="earth"></div>
 				<div class="greeting">
-          Hi there ✌🏻 !<br/>🔭 I’m currently a student in Hanoi University of Science and Technology (HUST).
+          Hi there ✌🏻 !<br/>I’m currently a student in <br> Hanoi University of Science and Technology (HUST).
         </div>
         <div class="skills">
           <div class="skills_icon">

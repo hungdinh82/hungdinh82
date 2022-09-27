@@ -1,6 +1,6 @@
 <!-- hungngohihihi -->
 <a href="#" target="_blank">
-  <img src="trungquandev.svg" width="1200" alt="trungquandev-official hihihi" />
+  <img src="trungquandev.svg" width="1200" alt="Loading..." />
 </a>
 
 <h2 align="center">🛠 Technologies and Tools 🛠</h2>

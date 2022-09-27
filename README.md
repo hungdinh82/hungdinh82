@@ -72,7 +72,7 @@
 </div>
 
 <br>
-<h2 align="center">👽 Connect to me 👽</h2>
+<h2 align="center"> Connect to me </h2>
 <br>
 <!-- https://icons8.com -->
 <div align="center">
@@ -103,6 +103,6 @@
 <h2 align="center">📑 My Favorites Quote 📑</h2>
 <br>
 <a href="#" target="_blank">
-  <img src="svg/hungngohihihiquotes.svg" width="846" height="150" alt="Loading..." />
+  <img src="hungngohihihiquotes.svg" width="846" height="150" alt="Loading..." />
 </a>
 

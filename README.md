@@ -105,4 +105,3 @@
 <a href="#" target="_blank">
   <img src="hungngohihihiquotes.svg" width="846" height="150" alt="Loading..." />
 </a>
-

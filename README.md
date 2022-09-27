@@ -82,17 +82,17 @@
   <a href="https://www.facebook.com/profile.php?id=100016153747820" target="blank">
     <img src="https://img.icons8.com/bubbles/100/000000/facebook-new.png" alt="Hùng Đinh-facebook" />
   </a>
-  <a href="https://www.youtube.com/c/TrungquandevOfficial" target="blank">
-    <img src="https://img.icons8.com/bubbles/100/000000/youtube-squared.png" alt="trungquandev-youtube" />
+  <a href="https://www.youtube.com/channel/UCyS5q7GwYjH-0-l4b1JjMKw" target="blank">
+    <img src="https://img.icons8.com/bubbles/100/000000/youtube-squared.png" alt="Hùng Đinh-youtube" />
   </a>
-  <a href="https://www.linkedin.com/in/trungquandev" target="blank">
-    <img src="https://img.icons8.com/bubbles/100/000000/linkedin.png" alt="trungquandev-linkedin" />
+  <a href="https://www.linkedin.com/in/hung-dinh-a93a02235/" target="blank">
+    <img src="https://img.icons8.com/bubbles/100/000000/linkedin.png" alt="Hùng Đinh-linkedin" />
   </a>
-  <a href="https://instagram.com/trungquandev" target="blank">
-    <img src="https://img.icons8.com/bubbles/100/000000/instagram.png" alt="trungquandev-instagram" />
+  <a href="https://www.instagram.com/hungngohihihi/" target="blank">
+    <img src="https://img.icons8.com/bubbles/100/000000/instagram.png" alt="Hùng Đinh-instagram" />
   </a>
-  <a href="mailto:trungquandev.official@gmail.com" target="top">
-    <img src="https://img.icons8.com/bubbles/100/000000/apple-mail.png" alt="trungquandev-email" />
+  <a href="mailto:hungngohihihi@gmail.com" target="top">
+    <img src="https://img.icons8.com/bubbles/100/000000/apple-mail.png" alt="Hùng Đinh-email" />
   </a>
 </div>
 

@@ -75,7 +75,7 @@
   </a>
 </div>
 
-<br><br>
+<br><br><br>
 <h2 align="center"> Connect to me </h2>
 <br>
 <!-- https://icons8.com -->

@@ -79,7 +79,7 @@
 			<div class="container">
         <div class="earth"></div>
 				<div class="greeting">
-          Hi there ✌🏻 !<br/>I'm Hung Dinh.
+          Hi there ✌🏻 !<br/>I’m currently a student in HUST.
         </div>
         <div class="skills">
           <div class="skills_icon">
@@ -112,3 +112,5 @@
 		</div>
 	</foreignObject>
 </svg>
+
+<!-- I'm Hung Dinh. -->

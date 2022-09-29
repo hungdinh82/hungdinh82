@@ -3,6 +3,8 @@
   <img src="hungngohihihi.svg" width="1200" alt="Loading..." />
 </a>
 
+<p align="center"><img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"  /></p>
+
 <h2 align="center"> Technologies and Tools </h2>
 <br>
 <!-- https://simpleicons.org/ -->

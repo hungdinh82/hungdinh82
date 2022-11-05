@@ -24,7 +24,7 @@
 &nbsp;&nbsp;
 <span><img src="https://img.shields.io/badge/MySQL-282C34?logo=mySQL&logoColor= 4479A1" alt="MySQL logo" title="MySQL" height="25" /></span>
 &nbsp;&nbsp;
-<!-- <span><img src="https://img.shields.io/badge/Microsoft SQL Server-282C34?logo=microsoft SQL Server&logoColor=CC2927" alt="Microsoft SQL Server logo" title="Microsoft SQL Server" height="25" /></span> -->
+<span><img src="https://img.shields.io/badge/Microsoft SQL Server-282C34?logo=microsoft SQL Server&logoColor=CC2927" alt="Microsoft SQL Server logo" title="Microsoft SQL Server" height="25" /></span>
 &nbsp;&nbsp;
 <span><img src="https://img.shields.io/badge/git-282C34?logo=git&logoColor=F05032" alt="git logo" title="git" height="25" /></span>
 &nbsp;&nbsp;

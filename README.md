@@ -18,7 +18,7 @@
 &nbsp;&nbsp;
 <span><img src="https://img.shields.io/badge/ReactJS-282C34?logo=react&logoColor=61DAFB" alt="ReactJS logo" title="ReactJS" height="25" /></span>
 &nbsp;&nbsp;
-<span><img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/></span>
+<span><img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java logo" height="25"/></span>
 &nbsp;&nbsp;
 <span><img src="https://img.shields.io/badge/-282C34?logo=c&logoColor=A8B9CC" alt="C logo" title="" height="25" /></span>
 &nbsp;&nbsp;

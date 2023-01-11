@@ -36,6 +36,8 @@
 &nbsp;&nbsp;
 <span><img src="https://img.shields.io/badge/Jira-282C34?logo=jira&logoColor=0052CC" alt="Jira logo" title="Jira" height="25" /></span>
 &nbsp;&nbsp;
+<span><img src="https://img.shields.io/badge/Slack-282C34?logo=slack&logoColor=4A154B" alt="Slack logo" title="Slack" height="25" /></span>
+&nbsp;&nbsp;
 <span><img src="https://img.shields.io/badge/Docker-282C34?logo=docker&logoColor=2496ED" alt="Docker logo" title="Docker" height="25" /></span>
 &nbsp;&nbsp;
 <span><img src="https://img.shields.io/badge/VS%20Code-282C34?logo=visual-studio-code&logoColor=007ACC" alt="Visual Studio Code logo" title="Visual Studio Code" height="25" /></span>

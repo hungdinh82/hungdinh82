@@ -8,6 +8,8 @@
 <h2 align="center"> Technologies and Tools </h2>
 <br>
 <!-- https://simpleicons.org/ -->
+<span><img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" alt="Java logo" title="Java" height="40" width="40"/></span>
+&nbsp;&nbsp;
 <span><img src="https://img.shields.io/badge/HTML5-282C34?logo=html5&logoColor=E34F26" alt="HTML5 logo" title="HTML5" height="25" /></span>
 &nbsp;&nbsp;
 <span><img src="https://img.shields.io/badge/CSS3-282C34?logo=css3&logoColor=1572B6" alt="CSS3 logo" title="CSS3" height="25" /></span>
@@ -17,8 +19,6 @@
 <span><img src="https://img.shields.io/badge/Node.js-282C34?logo=node.js&logoColor=00F200" alt="Node.js logo" title="Node.js" height="25" /></span>
 &nbsp;&nbsp;
 <span><img src="https://img.shields.io/badge/ReactJS-282C34?logo=react&logoColor=61DAFB" alt="ReactJS logo" title="ReactJS" height="25" /></span>
-&nbsp;&nbsp;
-<span><img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java logo" height="25"/></span>
 &nbsp;&nbsp;
 <span><img src="https://img.shields.io/badge/-282C34?logo=c&logoColor=A8B9CC" alt="C logo" title="" height="25" /></span>
 &nbsp;&nbsp;
@@ -44,6 +44,7 @@
 &nbsp;&nbsp;
 <span><img src="https://img.shields.io/badge/VS%20Code-282C34?logo=visual-studio-code&logoColor=007ACC" alt="Visual Studio Code logo" title="Visual Studio Code" height="25" /></span>
 &nbsp;&nbsp;
+
 
 <!-- <span><img src="https://img.shields.io/badge/TypeScript-282C34?logo=typescript&logoColor=3178C6" alt="TypeScript logo" title="TypeScript" height="25" /></span> -->
 <!-- &nbsp; -->

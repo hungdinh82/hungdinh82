@@ -34,7 +34,7 @@
 &nbsp;&nbsp;
 <span><img src="https://img.shields.io/badge/GitHub-282C34?logo=gitHub&logoColor=73398D" alt="GitHub logo" title="GitHub" height="25" /></span>
 &nbsp;&nbsp;
-<span><img src="https://img.shields.io/badge/GitHub-282C34?logo=jira&logoColor=0052CC" alt="Jira logo" title="Jira" height="25" /></span>
+<span><img src="https://img.shields.io/badge/Jira-282C34?logo=jira&logoColor=0052CC" alt="Jira logo" title="Jira" height="25" /></span>
 &nbsp;&nbsp;
 <span><img src="https://img.shields.io/badge/Docker-282C34?logo=docker&logoColor=2496ED" alt="Docker logo" title="Docker" height="25" /></span>
 &nbsp;&nbsp;

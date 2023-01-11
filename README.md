@@ -18,17 +18,19 @@
 &nbsp;&nbsp;
 <span><img src="https://img.shields.io/badge/ReactJS-282C34?logo=react&logoColor=61DAFB" alt="ReactJS logo" title="ReactJS" height="25" /></span>
 &nbsp;&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>
+&nbsp;&nbsp;
 <span><img src="https://img.shields.io/badge/-282C34?logo=c&logoColor=A8B9CC" alt="C logo" title="" height="25" /></span>
 &nbsp;&nbsp;
 <span><img src="https://img.shields.io/badge/C++-282C34?logo=c++&logoColor=00599C" alt="C++ logo" title="C++" height="25" /></span>
 &nbsp;&nbsp;
 <span><img src="https://img.shields.io/badge/Rust-282C34?logo=rust&logoColor=73398D" alt="Rust logo" title="Rust" height="25" /></span>
 &nbsp;&nbsp;
-<span><img src="https://img.shields.io/badge/PostgreSQL-282C34?logo=postgreSQL&logoColor=4169E1" alt="PostgreSQL logo" title="PostgreSQL" height="25" /></span>
+<!-- <span><img src="https://img.shields.io/badge/PostgreSQL-282C34?logo=postgreSQL&logoColor=4169E1" alt="PostgreSQL logo" title="PostgreSQL" height="25" /></span> -->
 &nbsp;&nbsp;
 <span><img src="https://img.shields.io/badge/MySQL-282C34?logo=mySQL&logoColor= 4479A1" alt="MySQL logo" title="MySQL" height="25" /></span>
 &nbsp;&nbsp;
-<span><img src="https://img.shields.io/badge/MicrosoftSQLServer-282C34?logo=microsoft SQL Server&logoColor=CC2927" alt="Microsoft SQL Server logo" title="Microsoft SQL Server" height="25" /></span>
+<!-- <span><img src="https://img.shields.io/badge/MicrosoftSQLServer-282C34?logo=microsoft SQL Server&logoColor=CC2927" alt="Microsoft SQL Server logo" title="Microsoft SQL Server" height="25" /></span> -->
 &nbsp;&nbsp;
 <span><img src="https://img.shields.io/badge/git-282C34?logo=git&logoColor=F05032" alt="git logo" title="git" height="25" /></span>
 &nbsp;&nbsp;

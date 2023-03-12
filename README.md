@@ -1,4 +1,5 @@
 <!-- hungngohihihi -->
+<p align="center"><img src="https://komarev.com/ghpvc/?username=hungngohihihi&style=flat-square&color=blue" alt=""></p>
 <a href="#" target="_blank">
   <img src="hungngohihihi.svg" width="1200" alt="Loading..." />
 </a>

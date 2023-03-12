@@ -1,5 +1,6 @@
 <!-- hungngohihihi -->
 <img src="https://komarev.com/ghpvc/?username=hungngohihihi&style=flat-square&color=blue" alt="Loading...">
+<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 <a href="#" target="_blank">
   <img src="hungngohihihi.svg" width="1200" alt="Loading..." />

@@ -1,5 +1,5 @@
 <!-- hungngohihihi -->
-<img src="https://komarev.com/ghpvc/?username=hungngohihihi&style=flat-square&color=blue" alt="Loading...">
+![](https://visitor-badge.glitch.me/badge?page_id=hungngohihihi.hungngohihihi)
 
 <a href="#" target="_blank">
   <img src="hungngohihihi.svg" width="1200" alt="Loading..." />

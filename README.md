@@ -11,7 +11,7 @@
 <h2 align="center"> Technologies and Tools </h2>
 <br>
 <!-- https://simpleicons.org/ -->
-<span><img src="https://img.shields.io/badge/Solidity-282C34?logo=solidity&logoColor=363636" alt="Solidity logo" title="Solidity" height="25" /></span>
+<span><img src="https://img.shields.io/badge/Solidity-282C34?logo=solidity&logoColor=A8B9CC" alt="Solidity logo" title="Solidity" height="25" /></span>
 &nbsp;&nbsp;
 <span><img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" alt="Java logo" title="Java" height="40" width="40"/></span>
 &nbsp;&nbsp;

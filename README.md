@@ -13,7 +13,7 @@
 <!-- https://simpleicons.org/ -->
 <span><img src="https://img.shields.io/badge/Solidity-282C34?logo=solidity&logoColor=A8B9CC" alt="Solidity logo" title="Solidity" height="25" /></span>
 &nbsp;&nbsp;
-<span><img  alt="Java logo" title="Java" height="40" width="40"/></span>
+<span><img src="https://img.shields.io/badge/Java-282C34?logo=java&logoColor=A8B9CC" alt="Java logo" title="Java" height="20" width="40"/></span>
 &nbsp;&nbsp;
 <span><img src="https://img.shields.io/badge/JavaScript-282C34?logo=javascript&logoColor=F7DF1E" alt="JavaScript logo" title="JavaScript" height="25" /></span>
 &nbsp;&nbsp;

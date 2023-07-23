@@ -13,7 +13,7 @@
 <!-- https://simpleicons.org/ -->
 <span><img src="https://img.shields.io/badge/Solidity-282C34?logo=solidity&logoColor=A8B9CC" alt="Solidity logo" title="Solidity" height="25" /></span>
 &nbsp;&nbsp;
-<span><img src="https://img.shields.io/badge/Java-282C34?logo=java&logoColor=A8B9CC" alt="Java logo" title="Java" height="26" width="40"/></span>
+<span><img src="https://img.shields.io/badge/Java-282C34?logo=java&logoColor=A8B9CC" alt="Java logo" title="Java" height="25" width="40"/></span>
 &nbsp;&nbsp;
 <span><img src="https://img.shields.io/badge/JavaScript-282C34?logo=javascript&logoColor=F7DF1E" alt="JavaScript logo" title="JavaScript" height="25" /></span>
 &nbsp;&nbsp;
@@ -27,7 +27,7 @@
 &nbsp;&nbsp;
 <span><img src="https://img.shields.io/badge/-282C34?logo=c&logoColor=A8B9CC" alt="C logo" title="" height="25" /></span>
 &nbsp;&nbsp;
-<span><img src="https://img.shields.io/badge/C++-282C34?logo=c++&logoColor=00599C" alt="C++ logo" title="C++" height="25" /></span>
+<span><img src="https://img.shields.io/badge/cplusplus-282C34?logo=cplusplus&logoColor=00599C" alt="cplusplus logo" title="cplusplus" height="25" /></span>
 &nbsp;&nbsp;
 <span><img src="https://img.shields.io/badge/Rust-282C34?logo=rust&logoColor=F05032" alt="Rust logo" title="Rust" height="25" /></span>
 &nbsp;&nbsp;

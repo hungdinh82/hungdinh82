@@ -29,7 +29,7 @@
 &nbsp;&nbsp;
 <span><img src="https://img.shields.io/badge/C++-282C34?logo=c++&logoColor=00599C" alt="C++ logo" title="C++" height="25" /></span>
 &nbsp;&nbsp;
-<span><img src="https://img.shields.io/badge/Rust-282C34?logo=rust&logoColor=73398D" alt="Rust logo" title="Rust" height="25" /></span>
+<span><img src="https://img.shields.io/badge/Rust-282C34?logo=rust&logoColor=F05032" alt="Rust logo" title="Rust" height="25" /></span>
 &nbsp;&nbsp;
 <!-- <span><img src="https://img.shields.io/badge/PostgreSQL-282C34?logo=postgreSQL&logoColor=4169E1" alt="PostgreSQL logo" title="PostgreSQL" height="25" /></span> -->
 &nbsp;&nbsp;

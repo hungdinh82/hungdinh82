@@ -27,7 +27,7 @@
 &nbsp;&nbsp;
 <span><img src="https://img.shields.io/badge/-282C34?logo=c&logoColor=A8B9CC" alt="C logo" title="" height="25" /></span>
 &nbsp;&nbsp;
-<span><img src="https://img.shields.io/badge/cplusplus-282C34?logo=cplusplus&logoColor=00599C" alt="cplusplus logo" title="C++" height="25" /></span>
+<span><img src="https://img.shields.io/badge/cplusplus-282C34?logo=cplusplus&logoColor=00599C" alt="C++ logo" title="C++" height="25" /></span>
 &nbsp;&nbsp;
 <span><img src="https://img.shields.io/badge/Rust-282C34?logo=rust&logoColor=F05032" alt="Rust logo" title="Rust" height="25" /></span>
 &nbsp;&nbsp;

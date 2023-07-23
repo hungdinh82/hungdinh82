@@ -11,6 +11,8 @@
 <h2 align="center"> Technologies and Tools </h2>
 <br>
 <!-- https://simpleicons.org/ -->
+<span><img src="https://img.shields.io/badge/Solidity-282C34?logo=solidity&logoColor=363636" alt="Solidity logo" title="Solidity" height="25" /></span>
+&nbsp;&nbsp;
 <span><img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" alt="Java logo" title="Java" height="40" width="40"/></span>
 &nbsp;&nbsp;
 <span><img src="https://img.shields.io/badge/JavaScript-282C34?logo=javascript&logoColor=F7DF1E" alt="JavaScript logo" title="JavaScript" height="25" /></span>
@@ -95,7 +97,7 @@
   <a href="https://www.linkedin.com/in/hung-dinh-a93a02235/" target="blank">
     <img src="https://img.icons8.com/bubbles/100/000000/linkedin.png" alt="Hùng Đinh-linkedin" />
   </a>
-  <a href="https://www.instagram.com/hungngohihihi/" target="blank">
+  <a href="#" target="blank">
     <img src="https://img.icons8.com/bubbles/100/000000/instagram.png" alt="Hùng Đinh-instagram" />
   </a>
   <a href="mailto:hungngohihihi@gmail.com" target="top">

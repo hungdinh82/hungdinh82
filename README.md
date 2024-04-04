@@ -120,7 +120,7 @@
 <br> 
 
 <br>
-<h2 align="center"> My Favorites Quote </h2>
+<h2 align="center"> My Favorite Quote </h2>
 <br>
 <a href="#" target="_blank">
   <img src="hungdinh82quotes.svg" width="846" height="150" alt="Loading..." />

@@ -1,9 +1,9 @@
-<!-- hungngohihihi -->
-<img src="https://komarev.com/ghpvc/?username=hungngohihihi&style=flat-square&color=blue" alt="Loading...">
+<!-- hungdinh82 -->
+<img src="https://komarev.com/ghpvc/?username=hungdinh82&style=flat-square&color=blue" alt="Loading...">
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 <a href="#" target="_blank">
-  <img src="hungngohihihi.svg" width="1200" alt="Loading..." />
+  <img src="hungdinh82.svg" width="1200" alt="Loading..." />
 </a>
 
 <p align="center"><img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"  /></p>
@@ -100,7 +100,7 @@
   <a href="#" target="blank">
     <img src="https://img.icons8.com/bubbles/100/000000/instagram.png" alt="Hùng Đinh-instagram" />
   </a>
-  <a href="mailto:hungngohihihi@gmail.com" target="top">
+  <a href="mailto:hungdinh82@gmail.com" target="top">
     <img src="https://img.icons8.com/bubbles/100/000000/apple-mail.png" alt="Hùng Đinh-email" />
   </a>
 </div>
@@ -110,11 +110,11 @@
 <!-- https://github.com/anuraghazra/github-readme-stats -->
 <br>
 <div align=center>
-  <a href="#" title="Hungngohihihi">
-    <img width="315" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hungngohihihi&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true" />
+  <a href="#" title="hungdinh82">
+    <img width="315" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hungdinh82&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true" />
   </a>
-  <a href="#" title="Hungngohihihi">
-    <img align="right" width="434" src="https://github-readme-stats.vercel.app/api?username=hungngohihihi&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
+  <a href="#" title="hungdinh82">
+    <img align="right" width="434" src="https://github-readme-stats.vercel.app/api?username=hungdinh82&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
   </a>
 </div>
 <br> 
@@ -123,5 +123,5 @@
 <h2 align="center"> My Favorites Quote </h2>
 <br>
 <a href="#" target="_blank">
-  <img src="hungngohihihiquotes.svg" width="846" height="150" alt="Loading..." />
+  <img src="hungdinh82quotes.svg" width="846" height="150" alt="Loading..." />
 </a>
